@@ -78,8 +78,9 @@ Developed an intelligent notes generation system that:
 AI-Notes-Generator/
 │
 ├── app.py              # Main Streamlit application
-├── cli.py              # CLI-based version
+├── Groq_app.py
 ├── requirements.txt
+├── groq-streamlit.png
 └── README.md
 
 ---
